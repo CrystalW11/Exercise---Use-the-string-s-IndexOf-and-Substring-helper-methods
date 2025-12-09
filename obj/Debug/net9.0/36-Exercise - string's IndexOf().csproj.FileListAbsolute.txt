@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\De
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\ref\36-Exercise - string's IndexOf().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().sourcelink.json
