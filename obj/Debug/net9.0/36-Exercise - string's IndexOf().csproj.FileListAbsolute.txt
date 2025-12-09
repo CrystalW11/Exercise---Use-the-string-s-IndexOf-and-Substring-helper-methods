@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\bin\Debug\net9.0\36-Exercise - string's IndexOf().exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\bin\Debug\net9.0\36-Exercise - string's IndexOf().deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\bin\Debug\net9.0\36-Exercise - string's IndexOf().runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\bin\Debug\net9.0\36-Exercise - string's IndexOf().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\bin\Debug\net9.0\36-Exercise - string's IndexOf().pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\refint\36-Exercise - string's IndexOf().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\36-Exercise - string's IndexOf().genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\36-Exercise - string's IndexOf()\obj\Debug\net9.0\ref\36-Exercise - string's IndexOf().dll
